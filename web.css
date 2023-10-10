@@ -20,7 +20,7 @@ header img {
 
 /* Create a main content section with a video background */
 .main-content {
-    background-image: url('netflix-background.jpg'); /* Add your background image here */
+    background-image: url('Netflix-background.jpg'); /* Add your background image here */
     background-size: cover;
     background-position: center;
     height: 100vh;
